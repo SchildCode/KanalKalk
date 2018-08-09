@@ -1,2 +1,9 @@
 # KanalKalk
-An Excel Workbook tool (in Norwegian) to accurately calculate pressure drop ventilation ductwork. Includes a small library of pressure loss coefficients (zeta-values) for duct fittings.
+### User guide
+All documentation is given in the user manual KanalKalk_bruksanvisning_.pdf
+
+### Lisence
+Free closed-source license (CC BY-ND 4.0), https://creativecommons.org/licenses/by-nd/4.0/
+
+### Author:
+Peter G. Schild, OsloMet / SINTEF Byggforsk
